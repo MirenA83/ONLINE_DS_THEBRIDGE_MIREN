@@ -1,0 +1,136 @@
+from|to|is_spam|confidence
+"From: stephen.marquard@uct.ac.za
+"|"To: source@collab.sakaiproject.org
+"|"X-DSPAM-Result: Innocent
+"|"X-DSPAM-Confidence: 0.8475
+"
+"From: louis@media.berkeley.edu
+"|"To: source@collab.sakaiproject.org
+"|"X-DSPAM-Result: Innocent
+"|"X-DSPAM-Confidence: 0.6178
+"
+"From: zqian@umich.edu
+"|"To: source@collab.sakaiproject.org
+"|"X-DSPAM-Result: Innocent
+"|"X-DSPAM-Confidence: 0.6961
+"
+"From: rjlowe@iupui.edu
+"|"To: source@collab.sakaiproject.org
+"|"X-DSPAM-Result: Innocent
+"|"X-DSPAM-Confidence: 0.7565
+"
+"From: zqian@umich.edu
+"|"To: source@collab.sakaiproject.org
+"|"X-DSPAM-Result: Innocent
+"|"X-DSPAM-Confidence: 0.7626
+"
+"From: rjlowe@iupui.edu
+"|"To: source@collab.sakaiproject.org
+"|"X-DSPAM-Result: Innocent
+"|"X-DSPAM-Confidence: 0.7556
+"
+"From: cwen@iupui.edu
+"|"To: source@collab.sakaiproject.org
+"|"X-DSPAM-Result: Innocent
+"|"X-DSPAM-Confidence: 0.7002
+"
+"From: cwen@iupui.edu
+"|"To: source@collab.sakaiproject.org
+"|"X-DSPAM-Result: Innocent
+"|"X-DSPAM-Confidence: 0.7615
+"
+"From: gsilver@umich.edu
+"|"To: source@collab.sakaiproject.org
+"|"X-DSPAM-Result: Innocent
+"|"X-DSPAM-Confidence: 0.7601
+"
+"From: gsilver@umich.edu
+"|"To: source@collab.sakaiproject.org
+"|"X-DSPAM-Result: Innocent
+"|"X-DSPAM-Confidence: 0.7605
+"
+"From: zqian@umich.edu
+"|"To: source@collab.sakaiproject.org
+"|"X-DSPAM-Result: Innocent
+"|"X-DSPAM-Confidence: 0.6959
+"
+"From: gsilver@umich.edu
+"|"To: source@collab.sakaiproject.org
+"|"X-DSPAM-Result: Innocent
+"|"X-DSPAM-Confidence: 0.7606
+"
+"From: wagnermr@iupui.edu
+"|"To: source@collab.sakaiproject.org
+"|"X-DSPAM-Result: Innocent
+"|"X-DSPAM-Confidence: 0.7559
+"
+"From: zqian@umich.edu
+"|"To: source@collab.sakaiproject.org
+"|"X-DSPAM-Result: Innocent
+"|"X-DSPAM-Confidence: 0.7605
+"
+"From: antranig@caret.cam.ac.uk
+"|"To: source@collab.sakaiproject.org
+"|"X-DSPAM-Result: Innocent
+"|"X-DSPAM-Confidence: 0.6932
+"
+"From: gopal.ramasammycook@gmail.com
+"|"To: source@collab.sakaiproject.org
+"|"X-DSPAM-Result: Innocent
+"|"X-DSPAM-Confidence: 0.7558
+"
+"From: david.horwitz@uct.ac.za
+"|"To: source@collab.sakaiproject.org
+"|"X-DSPAM-Result: Innocent
+"|"X-DSPAM-Confidence: 0.6526
+"
+"From: david.horwitz@uct.ac.za
+"|"To: source@collab.sakaiproject.org
+"|"X-DSPAM-Result: Innocent
+"|"X-DSPAM-Confidence: 0.6948
+"
+"From: david.horwitz@uct.ac.za
+"|"To: source@collab.sakaiproject.org
+"|"X-DSPAM-Result: Innocent
+"|"X-DSPAM-Confidence: 0.6528
+"
+"From: david.horwitz@uct.ac.za
+"|"To: source@collab.sakaiproject.org
+"|"X-DSPAM-Result: Innocent
+"|"X-DSPAM-Confidence: 0.7002
+"
+"From: stephen.marquard@uct.ac.za
+"|"To: source@collab.sakaiproject.org
+"|"X-DSPAM-Result: Innocent
+"|"X-DSPAM-Confidence: 0.7554
+"
+"From: louis@media.berkeley.edu
+"|"To: source@collab.sakaiproject.org
+"|"X-DSPAM-Result: Innocent
+"|"X-DSPAM-Confidence: 0.6956
+"
+"From: louis@media.berkeley.edu
+"|"To: source@collab.sakaiproject.org
+"|"X-DSPAM-Result: Innocent
+"|"X-DSPAM-Confidence: 0.6959
+"
+"From: ray@media.berkeley.edu
+"|"To: source@collab.sakaiproject.org
+"|"X-DSPAM-Result: Innocent
+"|"X-DSPAM-Confidence: 0.7556
+"
+"From: cwen@iupui.edu
+"|"To: source@collab.sakaiproject.org
+"|"X-DSPAM-Result: Innocent
+"|"X-DSPAM-Confidence: 0.9846
+"
+"From: cwen@iupui.edu
+"|"To: source@collab.sakaiproject.org
+"|"X-DSPAM-Result: Innocent
+"|"X-DSPAM-Confidence: 0.8509
+"
+"From: cwen@iupui.edu
+"|"To: source@collab.sakaiproject.org
+"|"X-DSPAM-Result: Innocent
+"|"X-DSPAM-Confidence: 0.9907
+"
